@@ -102,7 +102,7 @@ String passIDstring = "";//MQTT password
 String l_SSID = "";
 String l_PASS = "";
 String message = "";
-String versionInfo = "0.2";
+String versionInfo = "0.1";
 
 WiFiClientSecure net;
 MQTTClient client;
